@@ -1,10 +1,3 @@
 ## Hi there 👋
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-lime=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
