@@ -13,20 +13,29 @@
 
 ## 📦 Проекты
 
-### 🔧 [SHGPU-Slinkin](https://github.com/dev-lime/SHGPU-Slinkin)  
-Решения по программированию на C и Pascal.
+### 🔧 [SHGPU-Slinkin](https://github.com/dev-lime/SHGPU-Slinkin)
+Решения по программированию на C и Pascal.<br>
 📁 ProductionWorkshop, Programming, StructuresAndAlgorithms
 
-### 🎮 [Epic Games ReStore](https://github.com/dev-lime/EGReS)  
-Приложение на Python для восстановления и переноса игр Epic Games.
+### 🚚 [SHGPU-Pirogov](https://github.com/dev-lime/SHGPU-Pirogov)
+Веб-система управления транспортной компанией.<br>
+🛠 PHP, PostgreSQL, HTML/CSS/JS, MVC
+
+### ⚡ [Epic Games ReStore](https://github.com/dev-lime/EGReS)
+Приложение на Python для восстановления и переноса игр Epic Games.<br>
 🛠 PyQt5, psutil, hashlib
 
-### 🚚 [SHGPU-Pirogov](https://github.com/dev-lime/SHGPU-Pirogov)  
-Веб-система управления транспортной компанией.
-🛠 PHP, PostgreSQL, HTML/CSS/JS, MVC
+### 🧠 [Game Merge](https://github.com/dev-lime/Unity_MergeGame)
+Легко адаптируемая игра в жанре Merge на Unity.<br>
+🛠 Unity 6, C#, YG2 SDK
+
+### 🎮 [Tetris Inventory System](https://github.com/dev-lime/UE_5.5-TetrisInventorySystem)
+*Публичный доступ временно недоступен*<br>
+Реализация инвентарной системы в стиле "тетриса", аналогичной Escape from Tarkov, на Unreal Engine 5.5.<br>
+🛠 UE 5.5, Blueprint, UMG
 
 ---
 
-## 📫 Контакты  
+## 📫 Контакты
 
 artem@dedyuhin.ru
