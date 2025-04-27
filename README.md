@@ -21,6 +21,10 @@
 Веб-система управления транспортной компанией.<br>
 🛠 PHP, PostgreSQL, HTML/CSS/JS, MVC
 
+### 📱 [SHGPU-LMS](https://github.com/dev-lime/SHGPU-LMS)
+Мобильное веб-приложение для студентов и преподавателей ШГПУ.<br>
+🛠 Vite, React, Firebase, Material Disign
+
 ### ⚡ [Epic Games ReStore](https://github.com/dev-lime/EGReS)
 Приложение на Python для восстановления и переноса игр Epic Games.<br>
 🛠 PyQt5, psutil, hashlib
