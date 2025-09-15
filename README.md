@@ -25,10 +25,6 @@
 Мобильное веб-приложение для студентов и преподавателей ШГПУ.<br>
 🛠 Vite, React, Firebase, Material Disign
 
-### ⚡ [Epic Games ReStore](https://github.com/dev-lime/EGReS)
-Приложение на Python для восстановления и переноса игр Epic Games.<br>
-🛠 PyQt5, psutil, hashlib
-
 ### 🧠 [Game Merge](https://github.com/dev-lime/Unity_MergeGame)
 Легко адаптируемая игра в жанре Merge на Unity.<br>
 🛠 Unity 6, C#, YG2 SDK
