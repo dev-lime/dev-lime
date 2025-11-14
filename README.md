@@ -17,13 +17,13 @@
 Решения по программированию на C и Pascal.<br>
 📁 ProductionWorkshop, Programming, StructuresAndAlgorithms
 
-### 🚚 [SHGPU-Pirogov](https://github.com/dev-lime/SHGPU-Pirogov)
-Веб-система управления транспортной компанией.<br>
-🛠 PHP, PostgreSQL, HTML/CSS/JS, MVC
-
-### 📱 [SHGPU-LMS](https://github.com/dev-lime/SHGPU-LMS)
+### 📱 [SHGPU-LMS](https://github.com/dev-lime/SHGPU-LMS) (preview)
 Мобильное веб-приложение для студентов и преподавателей ШГПУ.<br>
 🛠 Vite, React, Firebase, Material Disign
+
+### 🧩 [SHGPU-Extension](https://github.com/dev-lime/SHGPU-Extension)
+Браузерное расширение, улучшающее интерфейс и функциональность ЭИОС ШГПУ.<br>
+🛠 Chromium, HTML, CSS, JS
 
 ### 🧠 [Game Merge](https://github.com/dev-lime/Unity_MergeGame)
 Легко адаптируемая игра в жанре Merge на Unity.<br>
@@ -35,7 +35,7 @@
 
 ### 🖼️ [Farewell To Things](https://github.com/dev-lime/F2T)
 Цифровой музей важных вещей моей жизни.<br>
-🛠 HTML, CSS, JavaScript
+🛠 HTML, CSS, JS
 
 ---
 
