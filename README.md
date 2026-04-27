@@ -34,7 +34,7 @@
 🛠 UE 5.6, Blueprint, UMG
 
 ### 🖼️ [Farewell To Things](https://github.com/dev-lime/F2T)
-Цифровой музей важных вещей моей жизни.<br>
+Цифровой музей важных вещей моей жизни. Первый написанный с нуля сайт.<br>
 🛠 HTML, CSS, JS
 
 ---
