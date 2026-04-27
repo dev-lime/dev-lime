@@ -21,7 +21,7 @@
 Мобильное веб-приложение для студентов и преподавателей ШГПУ.<br>
 🛠 Vite, React, Firebase, Material Disign
 
-### 🧩 [SHGPU-Extension](https://github.com/dev-lime/SHGPU-Extension)
+### 🧩 [SHGPU-Extension](https://github.com/dev-lime/SHGPU-Extension) (preview)
 Браузерное расширение, улучшающее интерфейс и функциональность ЭИОС ШГПУ.<br>
 🛠 Chromium, HTML, CSS, JS
 
