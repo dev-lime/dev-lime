@@ -25,6 +25,10 @@
 Браузерное расширение, улучшающее интерфейс и функциональность ЭИОС ШГПУ.<br>
 🛠 Chromium, HTML, CSS, JS
 
+### 📨 [XAM Messenger](https://github.com/dev-lime/xam-messenger) (beta)
+Корпоративный мессенджер для локальной сети с поддержкой файлов и статусов доставки.<br>
+🛠 Rust, Tauri, HTML, CSS, JS
+
 ### 🧠 [Game Merge](https://github.com/dev-lime/Unity_MergeGame)
 Легко адаптируемая игра в жанре Merge на Unity.<br>
 🛠 Unity 6, C#, YG2 SDK
