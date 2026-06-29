@@ -34,7 +34,7 @@
 🛠 Unity 6, C#, YG2 SDK
 
 ### 🎮 [Tetris Inventory System](https://github.com/dev-lime/UE_5.6-TetrisInventorySystem)
-Реализация инвентарной системы в стиле "тетриса", аналогичной Escape from Tarkov, на Unreal Engine 5.5.<br>
+Реализация инвентарной системы в стиле "тетриса", аналогичной Escape from Tarkov, на Unreal Engine 5.6.<br>
 🛠 UE 5.6, Blueprint, UMG
 
 ### 🖼️ [Farewell To Things](https://github.com/dev-lime/F2T)
